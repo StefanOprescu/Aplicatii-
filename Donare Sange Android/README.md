@@ -1,2 +1,2 @@
-# Blinked
-This is a mobile application for donating blood started in Cluj,Romania by a team of 5 students at UBB university.
+Aceasta aplicatie faciliteaza procesul de a completa formularul pentru donarea de sange.
+De asemenea, le permite utilizatorilor sa sa conecteze unii cu altii si sa trimita cereri in cazul in care au nevoie de sange.
